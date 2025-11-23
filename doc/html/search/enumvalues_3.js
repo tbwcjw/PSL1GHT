@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['kb_5fcodetype_5fascii_0',['KB_CODETYPE_ASCII',['../kb_8h.html#aaef863806f82c45338e513dd7f41f917abeea9f9f3ed5d33868848c155823288e',1,'kb.h']]],
+  ['kb_5fcodetype_5fraw_1',['KB_CODETYPE_RAW',['../kb_8h.html#aaef863806f82c45338e513dd7f41f917aad6b159651cade0059ac316816044d67',1,'kb.h']]],
+  ['kb_5fmapping_5f101_2',['KB_MAPPING_101',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a46285ed02a1c3b4e125bbd2d8d1b1c4f',1,'kb.h']]],
+  ['kb_5fmapping_5f106_3',['KB_MAPPING_106',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a443621707f9cdd1ce5a71423f1754933',1,'kb.h']]],
+  ['kb_5fmapping_5f106_5fkana_4',['KB_MAPPING_106_KANA',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a3e4d2314d07f71c6e30bc2997c33b6d3',1,'kb.h']]],
+  ['kb_5fmapping_5fcanadian_5ffrench_5fcanada_5',['KB_MAPPING_CANADIAN_FRENCH_CANADA',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a45734079f6b439c114c7c8e79bfa797f',1,'kb.h']]],
+  ['kb_5fmapping_5fchinese_5fsimplified_6',['KB_MAPPING_CHINESE_SIMPLIFIED',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509ae18282496104ec45a4242c7c860f46c8',1,'kb.h']]],
+  ['kb_5fmapping_5fchinese_5ftraditional_7',['KB_MAPPING_CHINESE_TRADITIONAL',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a65f06f38bfadba04299bf7b27d1b5e30',1,'kb.h']]],
+  ['kb_5fmapping_5fdanish_5fdenmark_8',['KB_MAPPING_DANISH_DENMARK',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a2dbf3c90cf79daeee1b9541ca99152b0',1,'kb.h']]],
+  ['kb_5fmapping_5fdutch_5fnetherlands_9',['KB_MAPPING_DUTCH_NETHERLANDS',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a6820fa7183ffca2e6a08d57cd6db6f9a',1,'kb.h']]],
+  ['kb_5fmapping_5fenglish_5fuk_10',['KB_MAPPING_ENGLISH_UK',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a8a2ebd96c7ce3feb28e947b959c8be44',1,'kb.h']]],
+  ['kb_5fmapping_5ffinnish_5ffinland_11',['KB_MAPPING_FINNISH_FINLAND',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a523accd2c71087b43d4eb17a46255e2c',1,'kb.h']]],
+  ['kb_5fmapping_5ffrench_5ffrance_12',['KB_MAPPING_FRENCH_FRANCE',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509acccda5ae020e2bdc40a92b35d7c388e8',1,'kb.h']]],
+  ['kb_5fmapping_5fgerman_5fgermany_13',['KB_MAPPING_GERMAN_GERMANY',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509aae7cca30c6f1a0e11bf5520c779dd91a',1,'kb.h']]],
+  ['kb_5fmapping_5fitalian_5fitaly_14',['KB_MAPPING_ITALIAN_ITALY',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a5964bd4b60881d3458cd5aaf2290fd77',1,'kb.h']]],
+  ['kb_5fmapping_5fkorean_5fkorea_15',['KB_MAPPING_KOREAN_KOREA',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509ac10234d529890830c9bc6b2ff4f20c03',1,'kb.h']]],
+  ['kb_5fmapping_5fnorwegian_5fnorway_16',['KB_MAPPING_NORWEGIAN_NORWAY',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a6828138b1d50fbfc21e49ae7b1d3b2f9',1,'kb.h']]],
+  ['kb_5fmapping_5fportuguese_5fportugal_17',['KB_MAPPING_PORTUGUESE_PORTUGAL',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a03f3b29ea097d5d6d83c221900638d50',1,'kb.h']]],
+  ['kb_5fmapping_5frussian_5frussia_18',['KB_MAPPING_RUSSIAN_RUSSIA',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a232b0f4e1414e08ffcffb5b9c72a8caf',1,'kb.h']]],
+  ['kb_5fmapping_5fspanish_5fspain_19',['KB_MAPPING_SPANISH_SPAIN',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a061eb7d2b2722b89071117633bdd7ba2',1,'kb.h']]],
+  ['kb_5fmapping_5fswedish_5fsweden_20',['KB_MAPPING_SWEDISH_SWEDEN',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a93eb305243467b0cd81f3ed7554cd770',1,'kb.h']]],
+  ['kb_5fmapping_5fswiss_5ffrench_5fswitzerland_21',['KB_MAPPING_SWISS_FRENCH_SWITZERLAND',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509a1acb40d7bcb923c52696673a50ca987f',1,'kb.h']]],
+  ['kb_5fmapping_5fswiss_5fgerman_5fswitzerland_22',['KB_MAPPING_SWISS_GERMAN_SWITZERLAND',['../kb_8h.html#a682c64ef992cf2e1612c8028791a2509ae54081765751d98cf7f1d1f52e53d80f',1,'kb.h']]],
+  ['kb_5frmode_5finputchar_23',['KB_RMODE_INPUTCHAR',['../kb_8h.html#a65f5992665e2887a1b9b213e0579ff37ae463eb0bf21eb0c3384ad04f2ad93a83',1,'kb.h']]],
+  ['kb_5frmode_5fpacket_24',['KB_RMODE_PACKET',['../kb_8h.html#a65f5992665e2887a1b9b213e0579ff37ae8b95cd198c7dafe649677b1ed2a4088',1,'kb.h']]]
+];

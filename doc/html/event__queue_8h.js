@@ -1,0 +1,25 @@
+var event__queue_8h =
+[
+    [ "sys_event_queue_attr", "structsys__event__queue__attr.html", "structsys__event__queue__attr" ],
+    [ "sys_event", "structsys__event.html", "structsys__event" ],
+    [ "SYS_EVENT_PORT_LOCAL", "event__queue_8h.html#a9f69e8fa19309a0610b198aab88827b2", null ],
+    [ "SYS_EVENT_PORT_NO_NAME", "event__queue_8h.html#a3b389fad82409f296454dfea172cd658", null ],
+    [ "SYS_EVENT_QUEUE_FIFO", "event__queue_8h.html#a5176da61ed5354b4cf2cfb04030fa83c", null ],
+    [ "SYS_EVENT_QUEUE_FORCE_DESTROY", "event__queue_8h.html#a5d6b460c19b34afdd2d18c26bd54ef49", null ],
+    [ "SYS_EVENT_QUEUE_KEY_LOCAL", "event__queue_8h.html#a933aa5214bebe7e6b01930982d267fac", null ],
+    [ "SYS_EVENT_QUEUE_PPU", "event__queue_8h.html#abc80a02a0d2a759d6158e88f72fc7137", null ],
+    [ "SYS_EVENT_QUEUE_PRIO", "event__queue_8h.html#a269979f9b48911fc0b110531ddc6b8f3", null ],
+    [ "SYS_EVENT_QUEUE_PRIO_INHERIT", "event__queue_8h.html#aed79df98fc443e5071fd3b6d845ea7ce", null ],
+    [ "SYS_EVENT_QUEUE_SPU", "event__queue_8h.html#a155b8db2644f3c2b56d53ffc2c5fd4d0", null ],
+    [ "sys_event_queue_attr_t", "event__queue_8h.html#acf0749be04a032059a5ca668c38df715", null ],
+    [ "sys_event_t", "event__queue_8h.html#a40abe44b5e269beccb54b47db58b32ac", null ],
+    [ "sysEventPortConnectLocal", "event__queue_8h.html#a1b6ebf728d29a14fdf48a3a5b76f587d", null ],
+    [ "sysEventPortCreate", "event__queue_8h.html#a7899efca1b72db46264f40fca74780cd", null ],
+    [ "sysEventPortDestroy", "event__queue_8h.html#ab18b62b301f9b80252ec20c6e9700161", null ],
+    [ "sysEventPortDisconnect", "event__queue_8h.html#af9388ce473d97320d98c091a99f421d9", null ],
+    [ "sysEventPortSend", "event__queue_8h.html#a5baf75a7016732327a5d5f7a9f2d1f3e", null ],
+    [ "sysEventQueueCreate", "event__queue_8h.html#aeaf7b7defe7985927c2fd41390efb37e", null ],
+    [ "sysEventQueueDestroy", "event__queue_8h.html#a38653b5921a112441644f7c55abfd898", null ],
+    [ "sysEventQueueDrain", "event__queue_8h.html#af46dece5f26ae69fe601f987dc2a3dac", null ],
+    [ "sysEventQueueReceive", "event__queue_8h.html#a510380c544e97d1811a2a766dc80b2f7", null ]
+];

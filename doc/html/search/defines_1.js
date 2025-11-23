@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['camera_5ferro_5fbad_5fframerate_0',['CAMERA_ERRO_BAD_FRAMERATE',['../camera_8h.html#ad7602020fe029076794672754cc06f9a',1,'camera.h']]],
+  ['camera_5ferro_5fbad_5fparam_1',['CAMERA_ERRO_BAD_PARAM',['../camera_8h.html#a464f86ae181c38999cc98a7e38fee5d0',1,'camera.h']]],
+  ['camera_5ferro_5fbusy_2',['CAMERA_ERRO_BUSY',['../camera_8h.html#ae590154b527b3957ae80b0621c6432fd',1,'camera.h']]],
+  ['camera_5ferro_5fdevice_5fdeactivated_3',['CAMERA_ERRO_DEVICE_DEACTIVATED',['../camera_8h.html#a76c91a8a07bd03c8a72f2d197020cd8d',1,'camera.h']]],
+  ['camera_5ferro_5fdouble_5finit_4',['CAMERA_ERRO_DOUBLE_INIT',['../camera_8h.html#aecb749db33a606f06dd7dbb542bd47dc',1,'camera.h']]],
+  ['camera_5ferro_5fdouble_5fopen_5',['CAMERA_ERRO_DOUBLE_OPEN',['../camera_8h.html#ad57a6717319aaf1f0618e59ca205b6dd',1,'camera.h']]],
+  ['camera_5ferro_5ffatal_6',['CAMERA_ERRO_FATAL',['../camera_8h.html#a74232a962fb1fb1826ba3b01b1c31d64',1,'camera.h']]],
+  ['camera_5ferro_5fmutex_7',['CAMERA_ERRO_MUTEX',['../camera_8h.html#a0926aaefdca87ce34498e126e9186d9e',1,'camera.h']]],
+  ['camera_5ferro_5fneed_5finit_8',['CAMERA_ERRO_NEED_INIT',['../camera_8h.html#a9af9e33345cc3e1d0b01a36adf7a6f45',1,'camera.h']]],
+  ['camera_5ferro_5fneed_5fopen_9',['CAMERA_ERRO_NEED_OPEN',['../camera_8h.html#a98aa37126fd5cd193baae88b474a92d9',1,'camera.h']]],
+  ['camera_5ferro_5fneed_5fstart_10',['CAMERA_ERRO_NEED_START',['../camera_8h.html#a59525b15b3c70b8a66472baf6733669f',1,'camera.h']]],
+  ['camera_5ferro_5fno_5fdevice_5ffound_11',['CAMERA_ERRO_NO_DEVICE_FOUND',['../camera_8h.html#ad00e689d350d8fa54c6c3cd1374611f4',1,'camera.h']]],
+  ['camera_5ferro_5ftimeout_12',['CAMERA_ERRO_TIMEOUT',['../camera_8h.html#a6ca3a919d0e4989189d2ffb444a12633',1,'camera.h']]],
+  ['camera_5ferro_5funknown_5fformat_13',['CAMERA_ERRO_UNKNOWN_FORMAT',['../camera_8h.html#ab2648c6450992b405f687cdb6adf043a',1,'camera.h']]],
+  ['camera_5ferro_5funknown_5fresolution_14',['CAMERA_ERRO_UNKNOWN_RESOLUTION',['../camera_8h.html#a1dbfdb3fd7cefcdb8df23010fc442a1d',1,'camera.h']]],
+  ['cmpxchg_15',['cmpxchg',['../atomic_8h.html#aa49b42826674582251c0d569aff743d3',1,'atomic.h']]],
+  ['cpu_5falignment_16',['CPU_ALIGNMENT',['../heap_8h.html#ae526a309e32001688261048b19cdb7d8',1,'heap.h']]]
+];

@@ -1,0 +1,26 @@
+var struct__gem__ext__port__data =
+[
+    [ "ANA_L_H", "struct__gem__ext__port__data.html#ac82d7108376a63042f9746b186891aad", null ],
+    [ "ANA_L_V", "struct__gem__ext__port__data.html#a0d3a23a94059dfd34c7e9c568a0215b6", null ],
+    [ "ANA_R_H", "struct__gem__ext__port__data.html#a28428725a319fe5c0663e144d4b2fcb6", null ],
+    [ "ANA_R_V", "struct__gem__ext__port__data.html#ad7cd85a4eae33cc22934ae8e35998e78", null ],
+    [ "BTN_CIRCLE", "struct__gem__ext__port__data.html#a45e8014dae73b7c8dda6965870898583", null ],
+    [ "BTN_CROSS", "struct__gem__ext__port__data.html#a16d5ebe037af156d1aea0754588e3f5c", null ],
+    [ "BTN_DOWN", "struct__gem__ext__port__data.html#ac6546786ae970a1b2eca8674ece352b6", null ],
+    [ "BTN_L1", "struct__gem__ext__port__data.html#a9fba8cb430d3b187061a2785e3136569", null ],
+    [ "BTN_L2", "struct__gem__ext__port__data.html#a99d7829d45d36a9d428fd8dc48293789", null ],
+    [ "BTN_L3", "struct__gem__ext__port__data.html#a6a603585b283b261adc36ec3432f7c49", null ],
+    [ "BTN_LEFT", "struct__gem__ext__port__data.html#a5156777e093acee9b3e1e396cdcf6fc7", null ],
+    [ "BTN_R1", "struct__gem__ext__port__data.html#a2512f14ca0e6215080747f79e3b3be00", null ],
+    [ "BTN_R2", "struct__gem__ext__port__data.html#aa1cd54be9ce3dd39a1122fafbf348ca6", null ],
+    [ "BTN_R3", "struct__gem__ext__port__data.html#a341ad381d89d54ca670da487587bfb52", null ],
+    [ "BTN_RIGHT", "struct__gem__ext__port__data.html#aa424f3e57e75bdf087c82350f485be71", null ],
+    [ "BTN_SELECT", "struct__gem__ext__port__data.html#a20bda78769e1e911fe52cf89858939f3", null ],
+    [ "BTN_SQUARE", "struct__gem__ext__port__data.html#aa486d2785d1d74439e83180e9a4349ab", null ],
+    [ "BTN_START", "struct__gem__ext__port__data.html#aff141553695f958944e4bebf491cb0cd", null ],
+    [ "BTN_TRIANGLE", "struct__gem__ext__port__data.html#a1a962eb3bf56615567fe679a0f652ca3", null ],
+    [ "BTN_UP", "struct__gem__ext__port__data.html#a836936c7a3d3390ef12cfd09630c91d1", null ],
+    [ "data", "struct__gem__ext__port__data.html#a3dad1682c6a353fc3c0519c9a7b0616d", null ],
+    [ "int", "struct__gem__ext__port__data.html#a6800738c6163d749a0c4fc05e55e62ef", null ],
+    [ "isconnected", "struct__gem__ext__port__data.html#ac00fa25c67e02545069ea83f1971e04a", null ]
+];
