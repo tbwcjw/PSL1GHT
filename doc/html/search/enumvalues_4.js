@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['msg_5fdialog_5fbkg_5finvisible_0',['MSG_DIALOG_BKG_INVISIBLE',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0bacc07b9c41d67c7b74caacd75860268b0',1,'msg.h']]],
+  ['msg_5fdialog_5fbtn_5fescape_1',['MSG_DIALOG_BTN_ESCAPE',['../msg_8h.html#a779c14af095a1dac72d095a67a2fa5b6acf5603b25f8bb66b42556e8327bf6543',1,'msg.h']]],
+  ['msg_5fdialog_5fbtn_5finvalid_2',['MSG_DIALOG_BTN_INVALID',['../msg_8h.html#a779c14af095a1dac72d095a67a2fa5b6a535460cc2bf487a5705d4fae36e6a99a',1,'msg.h']]],
+  ['msg_5fdialog_5fbtn_5fno_3',['MSG_DIALOG_BTN_NO',['../msg_8h.html#a779c14af095a1dac72d095a67a2fa5b6abede745920657f573c729110ad15d719',1,'msg.h']]],
+  ['msg_5fdialog_5fbtn_5fnone_4',['MSG_DIALOG_BTN_NONE',['../msg_8h.html#a779c14af095a1dac72d095a67a2fa5b6ab43689fcbb63c9b9cd42886c4cdb3db5',1,'msg.h']]],
+  ['msg_5fdialog_5fbtn_5fok_5',['MSG_DIALOG_BTN_OK',['../msg_8h.html#a779c14af095a1dac72d095a67a2fa5b6aac92c4c76963af6b7a6e9e252d821676',1,'msg.h']]],
+  ['msg_5fdialog_5fbtn_5ftype_5fok_6',['MSG_DIALOG_BTN_TYPE_OK',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0ba4bd24ffba6e5f6352ce9c0c47b93074f',1,'msg.h']]],
+  ['msg_5fdialog_5fbtn_5ftype_5fyesno_7',['MSG_DIALOG_BTN_TYPE_YESNO',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0ba3679e04fc45fa8be232deb5c2c0385d0',1,'msg.h']]],
+  ['msg_5fdialog_5fbtn_5fyes_8',['MSG_DIALOG_BTN_YES',['../msg_8h.html#a779c14af095a1dac72d095a67a2fa5b6a1b2346db56b9d4e0d774603a355ad567',1,'msg.h']]],
+  ['msg_5fdialog_5fdefault_5fcursor_5fno_9',['MSG_DIALOG_DEFAULT_CURSOR_NO',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0baecfed2fc82def8609654d208886eb6a6',1,'msg.h']]],
+  ['msg_5fdialog_5fdisable_5fcancel_5fon_10',['MSG_DIALOG_DISABLE_CANCEL_ON',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0ba101bd132864d653e1a074325b9260490',1,'msg.h']]],
+  ['msg_5fdialog_5fdouble_5fprogressbar_11',['MSG_DIALOG_DOUBLE_PROGRESSBAR',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0bae2bed6ce96ca7c436b3a11ac62e195e8',1,'msg.h']]],
+  ['msg_5fdialog_5ferror_12',['MSG_DIALOG_ERROR',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0bab927fb6ebce204e8a62623b2de7da5c9',1,'msg.h']]],
+  ['msg_5fdialog_5fmute_5fon_13',['MSG_DIALOG_MUTE_ON',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0ba16fb078f14aabedccfa64ddf387d3b66',1,'msg.h']]],
+  ['msg_5fdialog_5fnormal_14',['MSG_DIALOG_NORMAL',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0baf5e080fe8c74d740f32df01763ad227c',1,'msg.h']]],
+  ['msg_5fdialog_5fsingle_5fprogressbar_15',['MSG_DIALOG_SINGLE_PROGRESSBAR',['../msg_8h.html#a2f8f709ab25bdeef171ca2d415682e0ba66d0f75b19fce9e3fb3d40a2668f8a98',1,'msg.h']]]
+];
