@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['iconbuffersize_0',['iconBufferSize',['../structsysSaveNewSaveGameIcon.html#ac954123fe5ee635e26bd1f043d44b31e',1,'sysSaveNewSaveGameIcon']]],
+  ['idlist_1',['idlist',['../structsys__prx__get__module__list__t.html#a898d9bc2e901be7f81ab49ad325c6e59',1,'sys_prx_get_module_list_t']]],
+  ['incrementprogress_2',['incrementProgress',['../structsysSaveCallbackResult.html#ad57236ae094c680f37a468470678ea0d',1,'sysSaveCallbackResult']]],
+  ['index_3',['index',['../struct__sys__prx__segment__info.html#aabaaea2ecc2841cb7751ca954233623e',1,'_sys_prx_segment_info::index'],['../structrsx__const.html#ad29827551455684f5368e8c7ea9ecc21',1,'rsx_const::index'],['../structrsx__attrib.html#ad22ada845bcf24d37a21d8306a3b75de',1,'rsx_attrib::index']]],
+  ['info_4',['info',['../structKbInfo.html#a73b463d9b1377fb1a231903a149198a9',1,'KbInfo::info'],['../struct__mouse__info.html#ab940f5cb867e8ea95a3419403e1a28a1',1,'_mouse_info::info'],['../struct__pad__info.html#a5d2a735d34a725593eb2a6301c4fc423',1,'_pad_info::info'],['../struct__pad__info2.html#ad4cd4cb58aaef65300a1993cd4ac5e4c',1,'_pad_info2::info'],['../struct__pad__capability__info.html#acc231efa8eddf6ae128c1525e5cf5578',1,'_pad_capability_info::info'],['../struct__pad__periph__info.html#a4d9a505de9f54c7ed166d0cfed2f3566',1,'_pad_periph_info::info']]],
+  ['info_5fver_5',['info_ver',['../struct__camera__info.html#ac412ba867e81ad7a645e54f4a72819e5',1,'_camera_info::info_ver'],['../struct__camera__info__ex.html#a2e4f32d44b9d5932b3bf337485d6b538',1,'_camera_info_ex::info_ver']]],
+  ['inh_6',['inH',['../struct__gcmTransferScale.html#ad993ad510af620ff8f22720424673761',1,'_gcmTransferScale']]],
+  ['input_5fmask_7',['input_mask',['../structrsx__vp.html#a8ce75b2384fad5a15dbe4b6957b04b3c',1,'rsx_vp']]],
+  ['inputfieldtransparency_8',['inputFieldTransparency',['../struct__osk__separate__window__option.html#a6ee5bf2f574bedfab9b2750feb06380e',1,'_osk_separate_window_option']]],
+  ['inputwidth_9',['inputWidth',['../struct__osk__separate__window__option.html#a11c6fd276cbd63199518993c0c81fa35',1,'_osk_separate_window_option']]],
+  ['insn_5fstart_10',['insn_start',['../structrsx__vp.html#a145b00a12ef955a0e77e68f6d4bec535',1,'rsx_vp']]],
+  ['int_11',['int',['../struct__gem__ext__port__data.html#a6800738c6163d749a0c4fc05e55e62ef',1,'_gem_ext_port_data::int'],['../struct__pad__data.html#ade892a4f97a1f2babf3695121f0f1224',1,'_pad_data::int'],['../struct__pad__capability__info.html#a5dd950e582d6157b20e2373f680b64af',1,'_pad_capability_info::int']]],
+  ['interlacemode_12',['interlaceMode',['../struct__resc__init__config.html#a40f527c14ec58a3b88d52de0943984be',1,'_resc_init_config']]],
+  ['interp_13',['interp',['../struct__gcmTransferScale.html#af7eb7542ea6b44656513fef532b2e1ef',1,'_gcmTransferScale']]],
+  ['inw_14',['inW',['../struct__gcmTransferScale.html#a7921a8ded974d3f73677fa38fc31c9d9',1,'_gcmTransferScale']]],
+  ['inx_15',['inX',['../struct__gcmTransferScale.html#aa6ec9a6cf9048a272a5f114e7a326015',1,'_gcmTransferScale']]],
+  ['iny_16',['inY',['../struct__gcmTransferScale.html#ab6ee08cb94fb49b2a686dd36a6f9534f',1,'_gcmTransferScale']]],
+  ['io_17',['io',['../struct__gcmOffsetTable.html#a7cc589a5673fe73d4693519a17cbdc3e',1,'_gcmOffsetTable']]],
+  ['iosize_18',['ioSize',['../struct__gcmCfg.html#a5b5bd5e4b31086c9f0e27c01c31da66e',1,'_gcmCfg']]],
+  ['is_5finternal_19',['is_internal',['../structrsx__const.html#adf9c20032ed6c4490b33a45280630153',1,'rsx_const']]],
+  ['isconnected_20',['isconnected',['../struct__gem__ext__port__data.html#ac00fa25c67e02545069ea83f1971e04a',1,'_gem_ext_port_data']]],
+  ['isnew_21',['isNew',['../structsysSaveStatusIn.html#ac8b8809ca459cf1d868d153dde59e103',1,'sysSaveStatusIn']]]
+];

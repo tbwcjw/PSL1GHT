@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['sys_5fdbg_5fppu_5fthread_5fstatus_5ft_0',['sys_dbg_ppu_thread_status_t',['../dbg_8h.html#a074df3046d32cc3a2de9b229c9dfa7d9',1,'dbg.h']]],
+  ['sys_5fdbg_5fspu_5fthread_5fgroup_5fstatus_5ft_1',['sys_dbg_spu_thread_group_status_t',['../dbg_8h.html#a32540d9e7520d0f26b5fa2dbc4be22fc',1,'dbg.h']]],
+  ['sys_5fgame_5fdisc_5ftype_2',['sys_game_disc_type',['../game_8h.html#abc6b31ff6bd2042963d0a61f768f4616',1,'game.h']]],
+  ['sys_5fgame_5ferror_3',['sys_game_error',['../game_8h.html#acbdeb38fdabd3a9fcbd918c78b2d5cc5',1,'game.h']]],
+  ['sys_5fgame_5fparams_4',['sys_game_params',['../game_8h.html#adecfb594fd5f64854a1c5db08d6a88b1',1,'game.h']]],
+  ['sys_5fgame_5fresolution_5',['sys_game_resolution',['../game_8h.html#a22d2aaa0dba7050038015e5d11594d0d',1,'game.h']]],
+  ['sys_5fgame_5fsound_5fformat_6',['sys_game_sound_format',['../game_8h.html#ab48b3f3d275324bf25f0df7f8f6d1a3e',1,'game.h']]],
+  ['sys_5fgame_5fsystem_5fparam_5fsize_7',['sys_game_system_param_size',['../game_8h.html#a87a49977b04de3bf45909509c3737e18',1,'game.h']]],
+  ['sysdisctype_8',['sysDiscType',['../disc_8h.html#ace3e082c3530a1cec0aa75516f2572fd',1,'disc.h']]],
+  ['syssaveerrordialogmode_9',['sysSaveErrorDialogMode',['../save_8h.html#ae349e57861d78061d50868e39f88a0b4',1,'save.h']]],
+  ['syssavefileoperation_10',['sysSaveFileOperation',['../save_8h.html#abf8edf39cd2f3a90a19b21f358583b7d',1,'save.h']]],
+  ['syssavefiletype_11',['sysSaveFileType',['../save_8h.html#ac684c14e63633b54ebd9bff27d6d9e4b',1,'save.h']]],
+  ['syssavefocusposition_12',['sysSaveFocusPosition',['../save_8h.html#ad9eb82f29008bd01bb95e4c23982d180',1,'save.h']]],
+  ['syssavenewsaveposition_13',['sysSaveNewSavePosition',['../save_8h.html#ab5c0abcb78ac10110ceaa3f308036a0f',1,'save.h']]],
+  ['syssaverecreatemode_14',['sysSaveRecreateMode',['../save_8h.html#aaf6ea5b13adf52a2eb606ec3f09497fc',1,'save.h']]],
+  ['syssavesortorder_15',['sysSaveSortOrder',['../save_8h.html#a79dbe2b970e600ce0f72b8f424004a81',1,'save.h']]],
+  ['syssavesorttype_16',['sysSaveSortType',['../save_8h.html#ae787bd214e5ea8728acc363dc8543cbd',1,'save.h']]]
+];
