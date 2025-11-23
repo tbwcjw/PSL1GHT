@@ -1,9 +1,7 @@
 var searchData=
 [
-  ['sem_2eh',['sem.h',['../sem_8h.html',1,'']]],
-  ['socket_2eh',['socket.h',['../socket_8h.html',1,'']]],
-  ['spu_2eh',['spu.h',['../sys_2spu_8h.html',1,'(Global Namespace)'],['../lv2_2spu_8h.html',1,'(Global Namespace)']]],
-  ['spu_5fevent_2eh',['spu_event.h',['../spu__event_8h.html',1,'']]],
-  ['spu_5fthread_2eh',['spu_thread.h',['../spu__thread_8h.html',1,'']]],
-  ['sysutil_2eh',['sysutil.h',['../sysutil_8h.html',1,'']]]
+  ['resc_2eh_0',['resc.h',['../resc_8h.html',1,'']]],
+  ['rsx_2eh_1',['rsx.h',['../rsx_8h.html',1,'']]],
+  ['rsx_5ffunction_5fmacros_2eh_2',['rsx_function_macros.h',['../rsx__function__macros_8h.html',1,'']]],
+  ['rsx_5fprogram_2eh_3',['rsx_program.h',['../rsx__program_8h.html',1,'']]]
 ];

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['audioportconfig',['audioPortConfig',['../audio_8h.html#a02da79251113f818cf5547ef20f02c68',1,'audio.h']]],
-  ['audioportparam',['audioPortParam',['../audio_8h.html#ae66965251a068b3e76c8c31d9a629c6b',1,'audio.h']]]
+  ['audioportconfig_0',['audioPortConfig',['../audio_8h.html#a5ca37d9343c3d951fb40d251c5cc884d',1,'audio.h']]],
+  ['audioportparam_1',['audioPortParam',['../audio_8h.html#a953eb27ca6e60de98f6e177484e368db',1,'audio.h']]]
 ];

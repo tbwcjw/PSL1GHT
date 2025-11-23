@@ -1,15 +1,13 @@
 var searchData=
 [
-  ['gcmaddresstooffset',['gcmAddressToOffset',['../gcm__sys_8h.html#a5896696ff9e1df53f4c96e5ad8c71196',1,'gcm_sys.h']]],
-  ['gcmgetconfiguration',['gcmGetConfiguration',['../gcm__sys_8h.html#ad999c8dd759573d0e7851c994695e9b3',1,'gcm_sys.h']]],
-  ['gcmgetflipstatus',['gcmGetFlipStatus',['../gcm__sys_8h.html#a8e0dbaa989ad4213b92af079bd5d6a1d',1,'gcm_sys.h']]],
-  ['gcmgetlabeladdress',['gcmGetLabelAddress',['../gcm__sys_8h.html#a1e103c22cdbe755fb74580eaf92f2cd7',1,'gcm_sys.h']]],
-  ['gcminitbody',['gcmInitBody',['../gcm__sys_8h.html#ae9f72f29abf6d2a85181928817591a2b',1,'gcm_sys.h']]],
-  ['gcmiooffsettoaddress',['gcmIoOffsetToAddress',['../gcm__sys_8h.html#a553032b9a5a3623725422e6fd336cb50',1,'gcm_sys.h']]],
-  ['gcmmapmainmemory',['gcmMapMainMemory',['../gcm__sys_8h.html#ad0364144ba874c2c7c0da0be54d13270',1,'gcm_sys.h']]],
-  ['gcmresetflipstatus',['gcmResetFlipStatus',['../gcm__sys_8h.html#a6e69d0ac00c1a89c749cd528d3bd423f',1,'gcm_sys.h']]],
-  ['gcmsetdisplaybuffer',['gcmSetDisplayBuffer',['../gcm__sys_8h.html#accf7bf725f9cf0359a174cc62658331f',1,'gcm_sys.h']]],
-  ['gcmsetflip',['gcmSetFlip',['../gcm__sys_8h.html#a510e4bbc71e6acde5251aa87ba3a44cd',1,'gcm_sys.h']]],
-  ['gcmsetflipmode',['gcmSetFlipMode',['../gcm__sys_8h.html#a96361350d792bec0539d01a7141cbe97',1,'gcm_sys.h']]],
-  ['gcmsetwaitflip',['gcmSetWaitFlip',['../gcm__sys_8h.html#a728475ab2f027e051bb62a2f7740b00d',1,'gcm_sys.h']]]
+  ['audiocreatenotifyeventqueue_0',['audioCreateNotifyEventQueue',['../audio_8h.html#ab640cf2e97ab8b44743e231e86cea431',1,'audio.h']]],
+  ['audiogetportconfig_1',['audioGetPortConfig',['../audio_8h.html#adaa3eb703be8dc13e91d5ed155d65f17',1,'audio.h']]],
+  ['audioinit_2',['audioInit',['../audio_8h.html#a308360333a824812bddeab4d56c58a4e',1,'audio.h']]],
+  ['audioportclose_3',['audioPortClose',['../audio_8h.html#a7c777d1a3163db2530e77d114d2996aa',1,'audio.h']]],
+  ['audioportopen_4',['audioPortOpen',['../audio_8h.html#a3b0baa22d9a8032fc1b3f1f5dae5173e',1,'audio.h']]],
+  ['audioportstart_5',['audioPortStart',['../audio_8h.html#abfbc4c393ed8c806a378ac95d51cf098',1,'audio.h']]],
+  ['audioportstop_6',['audioPortStop',['../audio_8h.html#a78c73c0e8bd4aaf9d348fdf73b5318aa',1,'audio.h']]],
+  ['audioquit_7',['audioQuit',['../audio_8h.html#aaef7a6d59464a9ed78c868668b8466c7',1,'audio.h']]],
+  ['audioremovenotifyeventqueue_8',['audioRemoveNotifyEventQueue',['../audio_8h.html#a3d0d88f755e9ec56472dd1b160b0be6f',1,'audio.h']]],
+  ['audiosetnotifyeventqueue_9',['audioSetNotifyEventQueue',['../audio_8h.html#a2731e4d76e7c9490393527eff7ecc0c9',1,'audio.h']]]
 ];
